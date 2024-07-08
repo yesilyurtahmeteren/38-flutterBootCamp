@@ -29,6 +29,10 @@ Masal Atölyesi, yapay zekanın büyülü dokunuşuyla kendi masallarınızı ol
 * İnteraktif Deneyimleri Sevenler
 
 ## Sprint 1
+* **Sprint Notları:** Sprint 1 boyunca, yapay zeka ile masal uydurma uygulamasının temel ekranlarının (ana sayfa, giriş, profil, masal oluşturma, masal okuma) tasarımları tamamlandı. Kullanıcı akışı ve etkileşimler belirlendi, renk paleti, tipografi ve görsel stil seçildi. İlerleyen sprintlerde, alınan geri bildirimler doğrultusunda tasarımların detaylandırılması, yapay zeka entegrasyonu ve kullanıcı deneyimi iyileştirmelerine odaklanılması planlanmaktadır.
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 50
+* **Puan Tamamlama Mantığı:** Proje boyunca 350 puanlık backlog belirlendi.İlk sprintte yeterli sayıda toplantı yapamadığımızdan ilk sprintin 50 puanlık değerlendirilmesine karar verildi.
+* **Daily Scrum:** Takım üyelerinin zaman kısıtları nedeniyle, günlük Scrum toplantılarının WhatsApp üzerinden yapılması kararlaştırılmıştır.[Daily Scrum Chat.txt](https://github.com/user-attachments/files/16132315/Daily.Scrum.Chat.txt)
 
 ## Tasarımlar
 
