@@ -49,6 +49,12 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 2. **Görev Dağılımı:** Görev dağılımında belirsizlikler yaşandı, bu nedenle görevlerin daha net tanımlanması ve sorumlulukların belirlenmesi gerekiyor.
 3. **Tahmin Süreci:** Tahmin puanları gözden geçirilmeli ve developer'ların geri bildirimleri daha etkin bir şekilde alınmalı.
 
+## Sprint 2
+* **Sprint Notları:**
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**
+* **Puan Tamamlama Mantığı:**
+* **Daily Scrum:**
+
 
 
 
