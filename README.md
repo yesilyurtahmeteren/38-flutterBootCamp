@@ -3,9 +3,9 @@ Hayalperestler
 
 ## Takım Üyeleri
 * **Scrum Master** : Ahmet Eren Yeşilyurt
-* Berivan Boz
-* Yusuf Puyan
-* Bengisu Demir
+* **Proje Yöneticisi** :Berivan Boz
+* **Developer** :Yusuf Puyan
+* **Developer** :Bengisu Demir
 
 
 
