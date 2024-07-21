@@ -50,9 +50,9 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 3. **Tahmin Süreci:** Tahmin puanları gözden geçirilmeli ve developer'ların geri bildirimleri daha etkin bir şekilde alınmalı.
 
 ## Sprint 2
-* **Sprint Notları:**
-* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**
-* **Puan Tamamlama Mantığı:**
+* **Sprint Notları:** Sprint 2 boyunca, yapay zeka ile masal uydurma uygulamasının tasarım geliştirmeleri tamamlandı. Sprint 1'de belirlenen temel ekran tasarımları (ana sayfa, giriş, profil, masal oluşturma, masal okuma) kullanıcı geri bildirimleri ve yapay zeka entegrasyon ihtiyaçları doğrultusunda detaylandırıldı. Kullanıcı etkileşimleri iyileştirildi, görsel öğeler zenginleştirildi ve uygulama genelinde tutarlı bir kullanıcı deneyimi sağlandı. Renk paleti, tipografi ve görsel stil seçimleri üzerinde yapılan ince ayarlarla uygulama estetiği güçlendirildi.
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**80
+* **Puan Tamamlama Mantığı:**Proje boyunca 350 puanlık backlog belirlenmişti. Sprint 1'de 50 puanlık bir ilerleme kaydedilmişti. Sprint 2'de tasarım geliştirmelerinin tamamlanmasıyla birlikte 80 puanlık bir ilerleme daha kaydedilmesi hedeflendi.
 * **Daily Scrum:**
 
 
