@@ -42,8 +42,7 @@ Masal Atölyesi, yapay zekanın büyülü dokunuşuyla kendi masallarınızı ol
 ![Masal Atölyesi _ Trello - Google Chrome 7 07 2024 22_07_05](https://github.com/yesilyurtahmeteren/38-flutterBootCamp/assets/116821250/488db378-64ab-414e-a1e4-a2e67e9b67f8)
 
 * **Sprint review:**
-Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak başarılı olduğu ve kullanıcı akışının anlaşılır bulunduğu görüldü. Ancak, "Masal Oluştur" butonunun daha vurgulu olması ve farklı masal kategorilerine görsel olarak yönlendirme yapılması önerildi. Ek olarak, kullanıcıların oluşturdukları masalları kaydedebilmeleri ve daha sonra erişebilmeleri için bir profil sayfası oluşturulmasına karar verildi.Uygulamanın 
-
+Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak başarılı olduğu ve kullanıcı akışının anlaşılır bulunduğu görüldü. Ancak, "Masal Oluştur" butonunun daha vurgulu olması ve farklı masal kategorilerine görsel olarak yönlendirme yapılması önerildi. Ek olarak, kullanıcıların oluşturdukları masalları kaydedebilmeleri ve daha sonra erişebilmeleri için bir profil sayfası oluşturulmasına karar verildi.
 * **Sprint retrospective:**
 1. **Toplantılar:** Tasarım kararlarını netleştirmek ve eksiklikleri gidermek için daha sık toplantı yapılması gerekiyor.
 2. **Görev Dağılımı:** Görev dağılımında belirsizlikler yaşandı, bu nedenle görevlerin daha net tanımlanması ve sorumlulukların belirlenmesi gerekiyor.
@@ -80,7 +79,14 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 * Sprint Board Ekran Görüntüleri
 * ![Masal Atölyesi _ Trello - Google Chrome 21 07 2024 20_35_20](https://github.com/user-attachments/assets/4b0ce5be-a37a-481a-9622-d27b53e2ee88)
 
-* 
+**Sprint review:** Bu sprint review toplantısını gerçekleştiremedik. Ancak, bu süre zarfında önemli ilerlemeler kaydedildi. Kayıt ol sayfası tasarlandı, "Masal Oluştur" sayfası anasayfadan ayrılarak ayrı bir sayfa haline getirildi ve anasayfaya masallar geçmişi eklendi. Ayrıca, profil sayfası düzenlenerek geri bildirim sayfası, sıkça sorulan sorular (SSS) sayfası ve kullanıcı politikası bölümleri uygulamaya dahil edildi. Bu değişikliklerin kullanıcı deneyimini olumlu yönde etkilemesi bekleniyor.
+
+
+**Sprint retrospective:**
+1. **Üretkenlik:** Bu sprintte kod yazılmadı. Görevlerin tamamlanamaması, projenin ilerleyişinde ciddi aksamalara yol açtı. Daha üretken olabilmek için takım olarak motivasyonu ve katılımı artırmamız gerekiyor.
+
+2. **Görev Belirsizlikleri:** Görev dağılımındaki belirsizlikler, hangi görevlerin kime ait olduğunu ve ne zaman tamamlanması gerektiğini açıkça belirleyemememize neden oldu. Gelecek sprintlerde görevlerin net tanımlanması ve sorumlulukların belirlenmesi şart.
+3. **İletişim:** Takım içi iletişimsizlik, ilerlememizi olumsuz etkiledi. Tasarım kararlarını netleştirmek ve eksiklikleri gidermek için daha sık ve düzenli iletişim kurulması gerekiyor.
 
 
 
