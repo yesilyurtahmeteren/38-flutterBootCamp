@@ -50,9 +50,9 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 
 ## Sprint 2
 * **Sprint Notları:** Sprint 2 boyunca, yapay zeka ile masal uydurma uygulamasının tasarım geliştirmeleri tamamlandı. Sprint 1'de belirlenen temel ekran tasarımları (ana sayfa, giriş, profil, masal oluşturma, masal okuma) kullanıcı geri bildirimleri ve yapay zeka entegrasyon ihtiyaçları doğrultusunda detaylandırıldı. Kullanıcı etkileşimleri iyileştirildi, görsel öğeler zenginleştirildi ve uygulama genelinde tutarlı bir kullanıcı deneyimi sağlandı. Renk paleti, tipografi ve görsel stil seçimleri üzerinde yapılan ince ayarlarla uygulama estetiği güçlendirildi.
-* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:**80
-* **Puan Tamamlama Mantığı:**Proje boyunca 350 puanlık backlog belirlenmişti. Sprint 1'de 50 puanlık bir ilerleme kaydedilmişti. Sprint 2'de tasarım geliştirmelerinin tamamlanmasıyla birlikte 80 puanlık bir ilerleme daha kaydedilmesi hedeflendi.
-* **Daily Scrum:**İlk ve tek WhatsApp toplantımızda görev dağılımlarını netleştirmemize rağmen, o günden bu yana kimse iletişime geçmedi. Bu iletişimsizlik, günlük scrum verilerimizin olmamasına ve projelerimizde aksamalara yol açtı. Takım içi iletişimi daha etkin hale getirmek için acilen çözüm bulmamız gerekiyor.
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 80
+* **Puan Tamamlama Mantığı:** Proje boyunca 350 puanlık backlog belirlenmişti. Sprint 1'de 50 puanlık bir ilerleme kaydedilmişti. Sprint 2'de tasarım geliştirmelerinin tamamlanmasıyla birlikte 80 puanlık bir ilerleme daha kaydedilmesi hedeflendi.
+* **Daily Scrum:** İlk ve tek WhatsApp toplantımızda görev dağılımlarını netleştirmemize rağmen, o günden bu yana kimse iletişime geçmedi. Bu iletişimsizlik, günlük scrum verilerimizin olmamasına ve projelerimizde aksamalara yol açtı. Takım içi iletişimi daha etkin hale getirmek için acilen çözüm bulmamız gerekiyor.
 ## Tasarımlar
 ![Giriş Yap](https://github.com/user-attachments/assets/c28cfc37-6deb-480e-a9ba-9b71e6abeee6)
 ![Kayıt Ol](https://github.com/user-attachments/assets/7737ff8c-68a0-499e-aca6-f1c9b942b1f4)
