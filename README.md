@@ -28,6 +28,13 @@ Masal Atölyesi, yapay zekanın büyülü dokunuşuyla kendi masallarınızı ol
 * Masal Dinlemeyi Sevenler
 * İnteraktif Deneyimleri Sevenler
 
+## Renk Paleti
+![Colors](https://github.com/user-attachments/assets/9873017f-f83c-4d3d-94cb-e8e19929c7b5)
+## Typography
+![Typography](https://github.com/user-attachments/assets/66e3aa83-2fc5-4658-b853-7e54795b1556)
+
+
+
 ## Sprint 1
 * **Sprint Notları:** Sprint 1 boyunca, yapay zeka ile masal uydurma uygulamasının temel ekranlarının (ana sayfa, giriş, profil, masal oluşturma, masal okuma) tasarımları tamamlandı. Kullanıcı akışı ve etkileşimler belirlendi, renk paleti, tipografi ve görsel stil seçildi. İlerleyen sprintlerde, alınan geri bildirimler doğrultusunda tasarımların detaylandırılması, yapay zeka entegrasyonu ve kullanıcı deneyimi iyileştirmelerine odaklanılması planlanmaktadır.
 * **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 50
@@ -87,6 +94,9 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 
 2. **Görev Belirsizlikleri:** Görev dağılımındaki belirsizlikler, hangi görevlerin kime ait olduğunu ve ne zaman tamamlanması gerektiğini açıkça belirleyemememize neden oldu. Gelecek sprintlerde görevlerin net tanımlanması ve sorumlulukların belirlenmesi şart.
 3. **İletişim:** Takım içi iletişimsizlik, ilerlememizi olumsuz etkiledi. Tasarım kararlarını netleştirmek ve eksiklikleri gidermek için daha sık ve düzenli iletişim kurulması gerekiyor.
+
+**3. Sprint**
+
 
 
 
