@@ -54,7 +54,6 @@ class KayitOlPage extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 80, vertical: 15),
               ),
               onPressed: () {
-                // Kayıt ol işlemi
               },
               child: const Text(
                 "Kayıt Ol",
