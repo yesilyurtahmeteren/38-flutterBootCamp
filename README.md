@@ -97,8 +97,8 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 
 ## 3. Sprint
 * **Sprint Notları:** Sprint 3 boyunca, Masal Atölyesi uygulamasının önemli özelliklerini geliştirmeye devam ettik. Firebase entegrasyonuna yönelik çalışmalarımız tamamlanamasa da, kullanıcı kayıt ve giriş işlemlerinin tasarım ve işlevselliği üzerinde yoğunlaştık. Kullanıcı deneyimini artırmak için profil sayfası üzerinde iyileştirmeler yapıldı ve uygulamanın genel akışı optimize edildi.
-* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 120
-* **Puan Tamamlama Mantığı:** Proje boyunca toplamda 350 puanlık backlog belirlenmişti. İlk iki sprintte toplamda 130 puanlık iş tamamlandı. Sprint 3'te geri kalan görevlerin tamamlanması hedeflenerek 120 puanlık iş planlandı.
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 90
+* **Puan Tamamlama Mantığı:** Proje boyunca toplamda 350 puanlık backlog belirlenmişti. İlk iki sprintte toplamda 130 puanlık iş tamamlandı. Sprint 3'te geri kalan görevlerin tamamlanması hedeflenerek 90 puanlık iş planlandı.
 * **Daily Scrum:** Takım içi iletişimin ve koordinasyonun daha etkin hale getirilmesi amacıyla, günlük Scrum toplantıları Zoom üzerinden gerçekleştirildi. Toplantı notları Trello'da paylaşıldı ve görev dağılımları netleştirildi.
 * **Uygulama Ekran Görüntüleri**
   
