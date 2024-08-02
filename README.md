@@ -95,15 +95,31 @@ Sprint Review toplantısında, uygulamanın mevcut tasarımının genel olarak b
 2. **Görev Belirsizlikleri:** Görev dağılımındaki belirsizlikler, hangi görevlerin kime ait olduğunu ve ne zaman tamamlanması gerektiğini açıkça belirleyemememize neden oldu. Gelecek sprintlerde görevlerin net tanımlanması ve sorumlulukların belirlenmesi şart.
 3. **İletişim:** Takım içi iletişimsizlik, ilerlememizi olumsuz etkiledi. Tasarım kararlarını netleştirmek ve eksiklikleri gidermek için daha sık ve düzenli iletişim kurulması gerekiyor.
 
-**3. Sprint**
+## 3. Sprint
+* **Sprint Notları:** Sprint 3 boyunca, Masal Atölyesi uygulamasının önemli özelliklerini geliştirmeye devam ettik. Firebase entegrasyonuna yönelik çalışmalarımız tamamlanamasa da, kullanıcı kayıt ve giriş işlemlerinin tasarım ve işlevselliği üzerinde yoğunlaştık. Kullanıcı deneyimini artırmak için profil sayfası üzerinde iyileştirmeler yapıldı ve uygulamanın genel akışı optimize edildi.
+* **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 120
+* **Puan Tamamlama Mantığı:** Proje boyunca toplamda 350 puanlık backlog belirlenmişti. İlk iki sprintte toplamda 130 puanlık iş tamamlandı. Sprint 3'te geri kalan görevlerin tamamlanması hedeflenerek 120 puanlık iş planlandı.
+* **Daily Scrum:** Takım içi iletişimin ve koordinasyonun daha etkin hale getirilmesi amacıyla, günlük Scrum toplantıları Zoom üzerinden gerçekleştirildi. Toplantı notları Trello'da paylaşıldı ve görev dağılımları netleştirildi.
+* **Uygulama Ekran Görüntüleri**
+  
+![Screenshot_20240802-143911](https://github.com/user-attachments/assets/697c6534-6d22-4b45-acb7-e1346983a41d)
+![Screenshot_20240802-143906](https://github.com/user-attachments/assets/db5788cf-6908-4846-be71-bee586a60d62)
+![Screenshot_20240802-143857](https://github.com/user-attachments/assets/261b90c7-8a27-41cd-bdb1-754ee04170d6)
+![Screenshot_20240802-143852](https://github.com/user-attachments/assets/b9eb1787-8dd2-4e58-b0ff-294ee285514f)
+![Screenshot_20240802-144105](https://github.com/user-attachments/assets/009503ca-aa8f-4dcc-a313-cfcf743d95eb)
+![Screenshot_20240802-144058](https://github.com/user-attachments/assets/b582f7ce-6512-42c5-951b-e1d125711743)
+![Screenshot_20240802-144054](https://github.com/user-attachments/assets/ed3c0ceb-58e1-40fb-be21-bcf5998d3f60)
+![Screenshot_20240802-144048](https://github.com/user-attachments/assets/699316a7-867e-4829-961e-73585adde4f3)
+![Screenshot_20240802-143925](https://github.com/user-attachments/assets/324c6b47-a2c9-4125-93ef-18ecc8e454da)
+![Screenshot_20240802-143918](https://github.com/user-attachments/assets/2739891b-adab-407b-948c-764e3bf334b1)
 
+* **Sprint Board Ekran Görüntüleri**
+  ![Masal Atölyesi _ Trello - Google Chrome 2 08 2024 16_05_34](https://github.com/user-attachments/assets/24072fee-47c7-4ac5-bcc5-94ee7e5bc274)
 
+* **Sprint Review:**
+Sprint Review toplantısında, kullanıcı kayıt ve giriş işlemlerinin tasarımının tamamlandığı, profil sayfasının kullanıcı deneyimini artırdığı ve masal oluşturma butonunun işlevsel olduğu görüldü. Masal oluşturma sürecinde sadece yapay zekaya yazılacak olan promptun yazdırıldığı belirtildi. Firebase entegrasyonunun eksik olduğu ve daha sonraki bir aşamada tamamlanmasına karar verildi.
 
-
-
-
-
-
-
-
-
+**Sprint retrospective:** 
+1. **Üretkenlik:** Bu sprintte önemli ilerlemeler kaydedildi ve görevler zamanında tamamlandı. Ancak, görevlerin daha verimli bir şekilde tamamlanabilmesi için sprint planlamasında daha dikkatli olunması gerektiği belirtildi.
+2. **Görev Dağılımı: Görev dağılımı ve sorumluluklar net bir şekilde belirlendiği için takım üyeleri arasında belirsizlik yaşanmadı.
+İletişim: Takım içi iletişim daha etkin hale getirildi ve düzenli toplantılar sayesinde projede herhangi bir aksaklık yaşanmadı. Bu düzenin devam ettirilmesine karar verildi.
