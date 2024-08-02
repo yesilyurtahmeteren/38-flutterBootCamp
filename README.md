@@ -121,5 +121,5 @@ Sprint Review toplantısında, kullanıcı kayıt ve giriş işlemlerinin tasar�
 
 **Sprint retrospective:** 
 1. **Üretkenlik:** Bu sprintte önemli ilerlemeler kaydedildi ve görevler zamanında tamamlandı. Ancak, görevlerin daha verimli bir şekilde tamamlanabilmesi için sprint planlamasında daha dikkatli olunması gerektiği belirtildi.
-2. **Görev Dağılımı: Görev dağılımı ve sorumluluklar net bir şekilde belirlendiği için takım üyeleri arasında belirsizlik yaşanmadı.
-İletişim: Takım içi iletişim daha etkin hale getirildi ve düzenli toplantılar sayesinde projede herhangi bir aksaklık yaşanmadı. Bu düzenin devam ettirilmesine karar verildi.
+2. **Görev Dağılımı:** Görev dağılımı ve sorumluluklar net bir şekilde belirlendiği için takım üyeleri arasında belirsizlik yaşanmadı.
+3. **İletişim:** Takım içi iletişim daha etkin hale getirildi ve düzenli toplantılar sayesinde projede herhangi bir aksaklık yaşanmadı. Bu düzenin devam ettirilmesine karar verildi.
