@@ -152,7 +152,6 @@ class ProfilPage extends StatelessWidget {
         suffixIcon: IconButton(
           icon: const Icon(Icons.visibility_off),
           onPressed: () {
-            // Şifre görünürlüğünü değiştirme işlemi yapılabilir
           },
         ),
       ),
